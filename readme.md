@@ -182,7 +182,7 @@ brew list --versions # check installed packages and versions
 
 Here's a list of my favorite apps that I need for development on a regular basis (modify the list below as you need)
 
-    brew install firefox brave-browser tor-browser slack visual-studio-code vscodium sequel-ace imageoptim vlc vnc-viewer signal virtualbox authy appcleaner tunnelblick mullvadvpn iterm2 kap libreoffice wireguard-tools zoom scroll-reverser homebrew/cask/docker
+    brew install firefox slack visual-studio-code privatevpn appcleaner iterm2 zoom skype zalo whatsapp openkey microsoft-teams spotify --cask
 
 To explicity install software applications with a GUI, it's good to use the flag `--cask`. The example below is necessary because `transmission` can default to a CLI version instead of the GUI-based app.
 
