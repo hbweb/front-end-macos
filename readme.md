@@ -316,6 +316,11 @@ And finally, install the Vim "sensible defaults" by running:
 
 With that, Vim will look a lot better next time you open it!
 
+## iTerm2 
+
+iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.14 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+[Download](https://iterm2.com/) here
+
 ## ZSH
 
 macOS 10.15 and newer come with zsh as the default shell, replacing Bash. Install [Oh My Zsh!](http://ohmyz.sh/) for extra help and nice defaults. 
